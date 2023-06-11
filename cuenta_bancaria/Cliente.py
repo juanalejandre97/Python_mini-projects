@@ -1,4 +1,4 @@
-from python_course.cuenta_bancaria.Persona import Persona
+from Python_mini-projects.cuenta_bancaria.Persona import Persona
 
 
 class Cliente(Persona):
